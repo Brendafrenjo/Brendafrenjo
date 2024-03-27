@@ -12,5 +12,5 @@ c. Machine Learning
 For enquiries or collaboration requests you can shoot me an email @ brendafrenjo@gmail.com Let's code something amazing! 🚀👨‍💻 visit https://brendafrenjoportfolio.netlify.app/ for more info about me. Cheers!
 
 🎯 GitHub Streak
-GitHub Streak
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Brendafrenjo&theme=dark)](https://git.io/streak-stats)
