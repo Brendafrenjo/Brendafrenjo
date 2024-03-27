@@ -13,3 +13,4 @@ For enquiries or collaboration requests you can shoot me an email @ brendafrenjo
 
 🎯 GitHub Streak
 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Brendafrenjo&theme=dark)](https://git.io/streak-stats)
