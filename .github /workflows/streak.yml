@@ -1,0 +1,26 @@
+name: Update GitHub Streak for Brendafrenjo
+
+on:
+  schedule:
+    - cron: '0 5 * * *' # Set the schedule based on your preference
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update streak
+        run: node update-streak.js # Replace with the actual script to update streak
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
