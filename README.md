@@ -9,7 +9,7 @@ b. Artificial Intelligence
 
 c. Machine Learning
 
-For enquiries or collaboration requests you can shoot me an email @ brendafrenjo@gmail.com Let's code something amazing! 🚀👨‍💻 visit www.muuo.codes for more info about me. Cheers!
+For enquiries or collaboration requests you can shoot me an email @ brendafrenjo@gmail.com Let's code something amazing! 🚀👨‍💻 visit https://brendafrenjoportfolio.netlify.app/ for more info about me. Cheers!
 
 🎯 GitHub Streak
 GitHub Streak
